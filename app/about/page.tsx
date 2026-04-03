@@ -1,0 +1,2 @@
+export const metadata = { title: "关于" };
+export default function AboutPage() { return <main className="mx-auto max-w-reading px-6 py-20"><section className="space-y-6"><h1 className="text-4xl font-semibold tracking-tight">关于</h1><p className="leading-8 text-zinc-600 dark:text-zinc-300">这是第二版模板：更简洁的前端、博客归档、想法流、评论系统、搜索和后台发布入口。</p><p className="leading-8 text-zinc-600 dark:text-zinc-300">你可以把这里改成个人简介、联系方式、项目经历，也可以把导航文案替换成你喜欢的风格。</p></section></main>; }
