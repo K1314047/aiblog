@@ -116,6 +116,12 @@ public/images/my-photo.jpg
 /images/my-photo.jpg
 ```
 
+多张图片引用
+
+```
+"images": ["/images/1.jpg", "/images/2.jpg", "/images/3.jpg"]
+```
+
 这样本地和线上都能用。
 
 ------
